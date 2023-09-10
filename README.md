@@ -1,2 +1,2 @@
 # newuser
-Author: Rakshitha
+Author: Rakshitha Srikar
